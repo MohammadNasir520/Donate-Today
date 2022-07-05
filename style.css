@@ -28,27 +28,33 @@ body {
 
     font-weight: 400;
     font-size: 18px;
+    margin-bottom: 40px;
 
 }
 
-.donate p {
-    color: gray;
-
-}
 
 
 
 
 
 .link-button {
+
     text-decoration: none;
     padding: 15px 12px;
     background-color: tomato;
     border-radius: 5px;
+
+
 }
 
-.donate {
+.second-button {
+    margin-left: 45%;
+
+}
+
+.donate-today {
     text-align: center;
+    margin-top: 100px;
 }
 
 .tk {
@@ -75,5 +81,14 @@ body {
     background-color: rgba(245, 115, 92, 0.24);
 
 
+
+}
+
+.other-amount {
+    text-align: center;
+    border-bottom: 1px solid gray;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 40px;
 
 }
