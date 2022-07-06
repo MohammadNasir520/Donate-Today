@@ -59,6 +59,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 60px;
 }
 
 .text-box h1 {
@@ -74,10 +75,11 @@ body {
     font-size: 18px;
 }
 
-.tk {
+.tk-section {
     display: flex;
     text-align: center;
     justify-content: center;
+    margin-bottom: 80px;
 }
 
 .tk-amount {
@@ -86,6 +88,10 @@ body {
     background-color: rgb(224, 219, 219);
     margin: 10px;
     border-radius: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .tk-orange {
@@ -96,9 +102,10 @@ body {
     border: 2px solid tomato;
     border-radius: 5px;
     background-color: rgba(245, 115, 92, 0.24);
-
-
-
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .other-amount {
