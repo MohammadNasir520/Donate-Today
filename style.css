@@ -61,6 +61,19 @@ body {
     align-items: center;
 }
 
+.text-box h1 {
+    font-family: inter;
+    font-weight: 700;
+    font-size: 45px;
+
+}
+
+.text-box p {
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 18px;
+}
+
 .tk {
     display: flex;
     text-align: center;
