@@ -82,6 +82,12 @@ body {
     margin-bottom: 80px;
 }
 
+.tk-section h1 {
+    font-family: inter;
+    font-weight: 700;
+    font-size: 30px;
+}
+
 .tk-amount {
     width: 135px;
     height: 123px;
