@@ -22,13 +22,15 @@ body {
 
 }
 
-.help-section h1 {
+.help-div h1 {
+    color: white;
     font-family: inter;
     font-weight: 700;
     font-size: 65px;
 }
 
-.help-section p {
+.help-div p {
+    color: white;
     font-family: poppins;
     font-weight: 400;
     font-size: 18;
@@ -46,44 +48,17 @@ body {
     border-radius: 5px;
 }
 
-.help-div {
-    text-align: center;
-
-
-
-}
-
-.help-div h1 {
-    font-weight: 700;
-    font-size: 65px;
-    color: white;
-}
-
-.help-div p {
-    color: white;
-    font-family: 'Poppins';
-
-    font-weight: 400;
-    font-size: 18px;
-    margin-bottom: 40px;
-
-}
-
-
-
-
-
-
-
-
-.second-button {
+.second-link-button {
     margin-left: 45%;
 
 }
 
-.donate-today {
+.text-box {
     text-align: center;
     margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .tk {
