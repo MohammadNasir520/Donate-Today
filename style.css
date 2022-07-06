@@ -149,6 +149,7 @@ body {
 .Food-shelter-education h1 {
     font-family: poppins;
     font-weight: 600;
+    font-size: 24px;
 
 }
 
@@ -166,11 +167,11 @@ body {
     background-color: bisque;
 }
 
-#mail-box {
+.mail-section {
     text-align: center;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center
 }
 
 
@@ -181,9 +182,7 @@ body {
     text-align: center;
     display: flex;
     justify-content: center;
-    align-items: center;
-
-
+    align-items: center
 }
 
 .email-sub input {
@@ -201,6 +200,9 @@ button {
     color: white;
     width: 157px;
     height: 48px;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 20px;
 }
 
 footer {
@@ -219,6 +221,14 @@ footer {
 
 footer h1 {
     font-family: lobster;
+    font-weight: 400;
+    font-size: 36px;
     color: tomato;
 
+}
+
+footer p {
+    font-family: manrope;
+    font-weight: 400;
+    font size: 14px;
 }
