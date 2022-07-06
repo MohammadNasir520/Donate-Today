@@ -121,14 +121,21 @@ body {
     width: 50%;
     margin-left: 25%;
     margin-bottom: 40px;
+    font: optional;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 18px;
 
 }
 
-.flexible-container {
+#family-section {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .Food-shelter-education {
+
     width: 360px;
     height: 320px;
     margin: 10px;
@@ -137,11 +144,18 @@ body {
     background: rgba(79, 157, 166, 0.1);
     border-radius: 5px;
 
+}
+
+.Food-shelter-education h1 {
+    font-family: poppins;
+    font-weight: 600;
 
 }
 
-#family-section {
-    margin-left: 75px;
+.Food-shelter-education p {
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
 }
 
 .bg-shelter {
