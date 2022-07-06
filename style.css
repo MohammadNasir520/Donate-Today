@@ -121,3 +121,32 @@ body {
 .bg-education {
     background-color: bisque;
 }
+
+
+.email-sub {
+    width: 809px;
+    height: 200px;
+    background-color: blanchedalmond;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 250px;
+
+}
+
+.email-sub input {
+    border: none;
+    width: 275px;
+    height: 48px;
+}
+
+
+
+button {
+    background-color: tomato;
+    border: none;
+    color: white;
+    width: 157px;
+    height: 48px;
+}
