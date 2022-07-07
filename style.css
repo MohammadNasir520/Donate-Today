@@ -235,7 +235,7 @@ body {
 }
 
 
-.email-sub {
+.email-subscribe {
     width: 809px;
     height: 150px;
     background-color: blanchedalmond;
@@ -245,7 +245,7 @@ body {
     align-items: center
 }
 
-.email-sub input {
+.email {
     border: none;
     width: 275px;
     height: 48px;
@@ -254,7 +254,7 @@ body {
 
 
 
-button {
+.subscribe {
     background-color: tomato;
     border: none;
     color: white;
